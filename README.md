@@ -21,6 +21,6 @@
 * 이전 버전과 달리 XR Settings에서 카드보드를 설치하는 것이 아니라 깃 링크를 import 하는 형식으로 
 
 * 새로운 3D 프로젝트 형성
-*  * 상단 바에서 Window > Package Manager 클릭
-*  * + 버튼을 클릭한 후 Package 를 Git URL을 통해 import
-*  * ``` https://github.com/googlevr/cardboard-xr-plugin.git ```
+  * 상단 바에서 Window > Package Manager 클릭
+  * + 버튼을 클릭한 후 Package 를 Git URL을 통해 import
+  * ``` https://github.com/googlevr/cardboard-xr-plugin.git ```
