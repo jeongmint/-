@@ -30,3 +30,4 @@
   * 복사할 URL : ``` https://github.com/googlevr/cardboard-xr-plugin.git ```
 * Samples 드롭박스를 클릭
   * Hello Cardboard의 Import 버튼을 클릭하여 정상 작동 확인
+  * 컴퓨터에 따라서 매우 오래 걸릴 수 있음...
