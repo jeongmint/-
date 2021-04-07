@@ -10,3 +10,24 @@
 ```
 "상상을 현실로"
 ```
+
+---
+
+## **Unity 구글 카드보드 설치 하는 방법**
+#### 출처 : [Quickstart for Google Cardboard for Unity](https://developers.google.com/cardboard/develop/unity/quickstart)
+
+### 유니티 설치 버전 확인
+
+* Unity 2019.3.15f1 이후의 최신 상태에서 가능
+
+* 이전 버전과 달리 XR Settings에서 카드보드를 설치하는 것이 아니라 깃 링크를 import 하는 형식으로 방법이 변경되었음
+
+### 유니티에서 카드보드 Link URL Import 하기
+
+* 새로운 3D 프로젝트 형성
+  * 상단 바에서 Window > Package Manager 클릭
+  * " + " 버튼을 클릭한 후 Package 를 Git URL을 통해 import
+  * 복사할 URL : ``` https://github.com/googlevr/cardboard-xr-plugin.git ```
+* Samples 드롭박스를 클릭
+  * Hello Cardboard의 Import 버튼을 클릭하여 정상 작동 확인
+  * 컴퓨터에 따라서 매우 오래 걸릴 수 있음...
