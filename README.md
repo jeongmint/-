@@ -26,7 +26,7 @@
 
 * 새로운 3D 프로젝트 형성
   * 상단 바에서 Window > Package Manager 클릭
-  * " + " 버튼을 클릭한 후 Package 를 Git URL을 통해 import
+  * " + " 버튼을 클릭한 후 add package from git URL 클릭하여 주소 import
   * 복사할 URL : ``` https://github.com/googlevr/cardboard-xr-plugin.git ```
 * Samples 드롭박스를 클릭
   * Hello Cardboard의 Import 버튼을 클릭하여 정상 작동 확인
